@@ -1,0 +1,10 @@
+"""
+Problem statement:
+
+Predict the salary using "Salary.csv" dataset. Also include the backward elimination to 
+eliminate features with least importance.
+
+Print the RMSE score of linear regression.
+
+"""
+
